@@ -1,2 +1,8 @@
 # follow-your-discord-name
-this code will be make your web / tools python, etc, will follow your name if your alr put code read form website.
+
+**How use?**
+> Open https://glitch.com/
+> Login / Sign Up if you not have the account
+> Click create project
+> Import Form Github
+> Paste This project git
