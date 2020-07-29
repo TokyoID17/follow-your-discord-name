@@ -12,8 +12,8 @@
 
 ![screenshot_1](https://cdn.glitch.com/99ac35fb-b7e1-47fb-b190-d98db058723e%2Funknown.PNG?v=1596003990590)<br>
 
-**Example (Python) :**
-from urllib.request import Request, urlopen
-os.system('color ' + random.choice(['a']) + ' & cls & title Discord Ntro Checker by : ' +  urlopen(Request("https://malleable-cloudy-impala.glitch.me/")).read().decode())
+**Example (Python) :**<br>
+from urllib.request import Request, urlopen<br>
+os.system('color ' + random.choice(['a']) + ' & cls & title Discord Ntro Checker by : ' +  urlopen(Request("https://malleable-cloudy-impala.glitch.me/")).read().decode())<br>
 
 ![screenshot_2](https://cdn.glitch.com/2fcf5531-aefe-4801-9028-30a609b7910c%2Foutput.PNG?v=1596004692091)<br>
