@@ -17,3 +17,7 @@ from urllib.request import Request, urlopen<br>
 os.system('color ' + random.choice(['a']) + ' & cls & title Discord Ntro Checker by : ' +  urlopen(Request("https://malleable-cloudy-impala.glitch.me/")).read().decode())<br>
 
 ![screenshot_2](https://cdn.glitch.com/2fcf5531-aefe-4801-9028-30a609b7910c%2Foutput.PNG?v=1596004692091)<br>
+
+**Preview**<br>
+![screenshot_3](https://cdn.glitch.com/2fcf5531-aefe-4801-9028-30a609b7910c%2Fpriview_code.png?v=1596005733660)<br>
+![screenshot_4](https://cdn.glitch.com/2fcf5531-aefe-4801-9028-30a609b7910c%2Foutput_code.PNG?v=1596005730653)<br>
